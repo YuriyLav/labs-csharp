@@ -1,0 +1,7 @@
+C:\Users\lookg\source\repos\lab3\bin\Debug\lab3.exe.config
+C:\Users\lookg\source\repos\lab3\bin\Debug\lab3.exe
+C:\Users\lookg\source\repos\lab3\bin\Debug\lab3.pdb
+C:\Users\lookg\source\repos\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\lookg\source\repos\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\lookg\source\repos\lab3\obj\Debug\lab3.exe
+C:\Users\lookg\source\repos\lab3\obj\Debug\lab3.pdb

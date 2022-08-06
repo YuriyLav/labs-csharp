@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2uWCV16M+ceSm98m32x7hoRuzrozhJeCOOmS5xjwxjyl2+6j1ZPLj9Xn85c4uY4MZZRCXR4M19ZHBsn6UY8TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yurii\\Documents\\Huawei\\2 сем\\c# Projects\\lab4\\lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yurii\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\yurii\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\yurii\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\yurii\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

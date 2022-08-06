@@ -1,0 +1,15 @@
+D:\c# Projects\lab5\bin\Debug\lab5.exe.config
+D:\c# Projects\lab5\bin\Debug\lab5.exe
+D:\c# Projects\lab5\bin\Debug\lab5.pdb
+D:\c# Projects\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+D:\c# Projects\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\c# Projects\lab5\obj\Debug\lab5.exe
+D:\c# Projects\lab5\obj\Debug\lab5.pdb
+C:\Users\yurii\Documents\Huawei\2 сем\c# Projects\lab5\bin\Debug\lab5.exe.config
+C:\Users\yurii\Documents\Huawei\2 сем\c# Projects\lab5\bin\Debug\lab5.exe
+C:\Users\yurii\Documents\Huawei\2 сем\c# Projects\lab5\bin\Debug\lab5.pdb
+C:\Users\yurii\Documents\Huawei\2 сем\c# Projects\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\yurii\Documents\Huawei\2 сем\c# Projects\lab5\obj\Debug\lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\yurii\Documents\Huawei\2 сем\c# Projects\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\yurii\Documents\Huawei\2 сем\c# Projects\lab5\obj\Debug\lab5.exe
+C:\Users\yurii\Documents\Huawei\2 сем\c# Projects\lab5\obj\Debug\lab5.pdb
